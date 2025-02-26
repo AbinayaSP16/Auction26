@@ -1,1 +1,2 @@
 starting Price = 10 L
+cube1 price = 75 L
